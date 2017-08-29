@@ -1,0 +1,99 @@
+body {
+  font-family: 'Vesper Libre', serif;
+  background-color: #4C5151;
+}
+
+.logo {
+  font-size: 6em;
+  font-family: 'Teko', sans-serif;
+}
+
+.logo-e {
+  color: #4C5151;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  background-color: #F2F2F2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Teko', sans-serif;
+
+}
+
+.container-fluid {
+  padding-bottom: 1.5rem;
+}
+
+.list-group-item {
+    background-color: inherit;
+}
+
+
+.img-medium {
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+}
+
+.img-tall {
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+}
+
+p {
+  font-size: 1.2em;
+}
+p.lead {
+  font-size: 1.5em;
+}
+p.sub-title {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row {
+  padding-top: 1rem;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.con-light {
+  background-color: #F2F2F2;
+  color: #4C5151;
+}
+
+
+.bottom-border {
+  border-bottom: 1px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-style: dashed;
+  border-color: #aaa;
+}
+
+.con-dark {
+  background-color: #4C5151;
+  color: #F2F2F2;
+}
+
+a:link {
+    color: inherit;
+}
+
+a:visited {
+    color: inherit;
+}
+a:hover {
+    text-decoration: underline;
+    color: inherit;
+}
